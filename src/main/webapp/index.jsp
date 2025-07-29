@@ -81,6 +81,7 @@
 
     <footer>
         <p>&copy; Company 2014</p>
+        <p>&copy; Vijay 2025</p>
     </footer>
 </div> <!-- /container -->
 
